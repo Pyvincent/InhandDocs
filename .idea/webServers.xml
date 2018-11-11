@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3b432cc8-1152-4dcf-806f-46739e98a441" name="http://47.94.194.228/" url="http://47.94.194.228">
+        <fileTransfer host="47.94.194.228" port="22" rootFolder="/home/vincent/inhanddoc/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
